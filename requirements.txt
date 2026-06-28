@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+xgboost #A powerful boosting algorithm that builds trees sequentially, correcting errors from previous trees.
+flask
+streamlit
